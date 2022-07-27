@@ -1,0 +1,13 @@
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.exe
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.deps.json
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.runtimeconfig.json
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.runtimeconfig.dev.json
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.dll
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\bin\Debug\netcoreapp3.1\IntegralCalculation.pdb
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.csprojAssemblyReference.cache
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.AssemblyInfoInputs.cache
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.AssemblyInfo.cs
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.csproj.CoreCompileInputs.cache
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.dll
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.pdb
+C:\Users\ggobd\source\repos\IntegralCalculation\IntegralCalculation\obj\Debug\netcoreapp3.1\IntegralCalculation.genruntimeconfig.cache
